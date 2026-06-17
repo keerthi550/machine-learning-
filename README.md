@@ -28,3 +28,11 @@ Classes include:
 - Sneaker
 - Bag
 - Ankle boot
+
+## Requirements
+- Python 3.x
+- TensorFlow
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
