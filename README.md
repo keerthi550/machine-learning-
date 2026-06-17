@@ -6,7 +6,7 @@ This repository contains the code and tutorial for exploring how Convolutional N
 
 The tutorial demonstrates:
 
--Building and training a CNN with TensorFlow/Keras
+- Building and training a CNN with TensorFlow/Keras
 Evaluating classification performance
 Visualising feature maps from convolutional layers
 Analysing correct and incorrect predictions
